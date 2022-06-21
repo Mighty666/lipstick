@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://cdn5.vectorstock.com/i/1000x1000/95/69/abstract-fashion-background-vector-639569.jpg");
+}
+h1{
+    color: crimson;
+    font-family: cursive;
+}
+.texts{
+    color: black;
+    background-color: cyan;
+    font-family: fantasy;
+}
+canvas{
+    border: darkorchid 3px dashed;
+    margin-top: 50px;
+    filter:drop-shadow(10px 10px 50px cyan);
+    border-radius: 20px;
+}
